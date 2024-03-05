@@ -57,12 +57,12 @@ while (clientCounter <= maxClients){
 
 //  CONTINUE
 
-const number = 10;
+// const number = 10;
 
-for (let i = 0; i < number; i += 1){
-    if(i % 2 === 0){
-        continue;
-    }
+// for (let i = 0; i < number; i += 1){
+//     if(i % 2 === 0){
+//         continue;
+//     }
 
-    console.log("Numarul impar i: ", i);
-}
+//     console.log("Numarul impar i: ", i);
+// }
