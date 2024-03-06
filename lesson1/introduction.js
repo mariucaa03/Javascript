@@ -1,27 +1,27 @@
-console.log("Hello World!");
+// console.log("Hello World!");
 
 
 
-const age = 25; // Number
-const name = "Mariuca"; // String
-const surname = 'Zahariuc';
-const fullName = `${name} ${surname} Salut`;
-const isFemale = true; // Boolean
+// const age = 25; // Number
+// const name = "Mariuca"; // String
+// const surname = 'Zahariuc';
+// const fullName = `${name} ${surname} Salut`;
+// const isFemale = true; // Boolean
 
-const mariuca = {
-    name: "Mariuca" ,
-    surname: "Zahariuc"
-}
+// const mariuca = {
+//     name: "Mariuca" ,
+//     surname: "Zahariuc"
+// }
 
-console.log(mariuca.name);
+// console.log(mariuca.name);
 
-const ageOfUniversInBilions = 1.8; // not sure about this
+// const ageOfUniversInBilions = 1.8; // not sure about this
 
-let myAge;
+// let myAge;
 
-myAge = 21;
+// myAge = 21;
 
-console.log(myAge);
+// console.log(myAge);
 
 
 //alert("Are you sure?");
